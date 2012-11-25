@@ -1,0 +1,3 @@
+oauth_consumer_key: oauth_consumer_key_of_your_application
+oauth_consumer_secret: oauth_consumer_secret_of_your_application
+version: !string 1.1

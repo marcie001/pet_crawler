@@ -1,0 +1,6 @@
+- lang: "ja"
+  category_pattern: !ruby/regexp /^Category:/
+  ignore_category_pattern: !ruby/regexp /(曖昧さ回避|\/[0-9]+年[0-9]+月|\/[0-9]+年)/
+- lang: "en"
+  category_pattern: !ruby/regexp /^Category:/
+  ignore_category_pattern: !ruby/regexp /disambiguation pages/
